@@ -275,6 +275,7 @@ Cb::currencies();
 * GitHub: [alf07](https://github.com/alf07/?utm_source=chatgpt.com)
 * Email: [roma.alf89@gmail.com](mailto:roma.alf89@gmail.com)
 * Telegram: @Alf88
+* Канал в Макс https://max.ru/channel_alf_dev
 
 ---
 
